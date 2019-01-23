@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1513047993 source:c:\users\lauren\desktop\engineering computation\transientresponse\transientresponse.c
+	<stdio.h>
+	<gng1106plplot.h>
+	<math.h>
+	<float.h>
+
+1469659640 c:\libs\plplot-5.11.1\buildmingw\install\include\plplot\gng1106plplot.h
+	"plplot.h"
+
+1439400928 c:\libs\plplot-5.11.1\buildmingw\install\include\plplot\plplot.h
+	"plConfig.h"
+	<stdio.h>
+	<stdlib.h>
+	"pldll.h"
+	<stdint.h>
+	<Limits.h>
+
+1454720734 c:\libs\plplot-5.11.1\buildmingw\install\include\plplot\plconfig.h
+	<plplot_config.h>
+
+1454720734 c:\libs\plplot-5.11.1\buildmingw\install\include\plplot\pldll.h
+
